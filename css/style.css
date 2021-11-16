@@ -666,12 +666,6 @@ button {
   color: var(--title-color);
 }
 
-.footer__copy {
-  display: block;
-  text-align: center;
-  font-size: var(--smaller-font-size);
-  margin-top: 4.5rem;
-}
 /* Header Background */
 
 .scroll-header {
@@ -1004,10 +998,6 @@ button {
   }
   .new__title {
     font-size: var(--h3-font-size);
-  }
-
-  .footer__copy {
-    margin-top: 6rem;
   }
 }
 
